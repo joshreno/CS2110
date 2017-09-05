@@ -1,0 +1,10 @@
+Joshua Reno
+GTID: 903245507
+
+1. The purpose of a splitter is to take a multi-bit input and splits it into multiple subset outputs. A joiner takes several one-bit or multi-bit inputs and joins them into one output.
+
+2. Tunnels basically make circuits neater. They can be used to connect points that are in different areas of a circuit in order to make the wiring neater. They can also be used, in the case of Brandonism, to directly add labels to an output to signify what it represents.
+
+3.
+Input: 010     Output: No umbrella
+Input: 100     Output: Umbrella
